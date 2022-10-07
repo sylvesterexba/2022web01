@@ -31,4 +31,5 @@ $db2=new DB("stories");
 echo "<pre>";
 print_r($db2->all());
 echo "</pre>";
+
 ?>
